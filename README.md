@@ -29,7 +29,6 @@ In addition to predictive analytics, the platform integrates web scraping to fet
 
 The screenshots below show the main dashboard flow. Click any thumbnail to open the full-size image.
 
-<details>
 
 | Landing | Prediction |
 |---:|:---|
@@ -40,7 +39,6 @@ The screenshots below show the main dashboard flow. Click any thumbnail to open 
 | [![Insights](App_Previews/Screenshot%20%28229%29.png)](App_Previews/Screenshot%20%28229%29.png) | [![Listings](App_Previews/Screenshot%20%28230%29.png)](App_Previews/Screenshot%20%28230%29.png) |
 
 
-</details>
 
 ---
 
