@@ -25,6 +25,28 @@ In addition to predictive analytics, the platform integrates web scraping to fet
 
 ---
 
+# 📸 App Preview
+
+The screenshots below show the main flow of the app, from the landing section to predictions, analytics, and live market listings.
+
+## Home / Project Snapshot
+
+![HousePrice.AI landing page](App_Previews/Screenshot%20%28227%29.png)
+
+## Prediction Studio
+
+![House price prediction form and result view](App_Previews/Screenshot%20%28228%29.png)
+
+## Market Insights
+
+![Top locations chart and analytics dashboard](App_Previews/Screenshot%20%28229%29.png)
+
+## Live Listings
+
+![Live market listings fetched from real estate sources](App_Previews/Screenshot%20%28230%29.png)
+
+---
+
 # 🧠 Machine Learning Model
 
 * Algorithm: Gradient Boosting Regressor (GBR)
