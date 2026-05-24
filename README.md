@@ -39,6 +39,7 @@ The screenshots below show the main dashboard flow. Click any thumbnail to open 
 |---:|:---|
 | [![Insights](App_Previews/Screenshot%20%28229%29.png)](App_Previews/Screenshot%20%28229%29.png) | [![Listings](App_Previews/Screenshot%20%28230%29.png)](App_Previews/Screenshot%20%28230%29.png) |
 
+
 </details>
 
 ---
